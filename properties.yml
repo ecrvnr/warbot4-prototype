@@ -1,0 +1,63 @@
+
+#### FICHIER DE CONFIGURATION WARBOT ####
+
+Units:
+    WarBase:
+        MaxHealth: 300
+        MaxInventory: 200
+        PerceptionRadius: 120
+        SpawnDelay: 1.5
+    WarTurret:
+        MaxHealth: 30
+        MaxInventory: 20
+        PerceptionRadius: 70
+        ReloadTime: 0.1
+        Cost: 20
+    WarExplorer:
+        MaxHealth: 45
+        MaxInventory: 100
+        PerceptionRadius: 80
+        Speed: 65
+        Cost: 10
+    WarEngineer:
+        MaxHealth: 80
+        MaxInventory: 100
+        PerceptionRadius: 50
+        Speed: 30
+        SpawnDelay: 4.0
+        Cost: 15
+    WarHeavy:
+        MaxHealth: 100
+        MaxInventory: 50
+        PerceptionRadius: 85
+        Speed: 55
+        ReloadTime: 1.0
+        Cost: 30
+Ressources:
+    HealCost: 30
+    HealValue: 20
+    TakeCount: 20
+    GiveCount: 20
+    GiveDistance: 30
+    MaxRessources: 20
+
+# Exemple de code YAML
+
+#var1: -2.5e3
+#var2: chaine de caractere
+#var3:
+#    var31: 1
+#    var32: 2
+#    var33: 3
+#var4:
+#    - 1
+#    - 2
+#    - 3
+#var5:
+#    -
+#        - 11
+#        - 12
+#    -
+#        - 21
+#        - 22
+#    length: 2

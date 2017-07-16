@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 104c2212f7c3e8e45bcab1c40257ec81
+timeCreated: 1488365926
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: body_001
+    100004: chenilleD_001
+    100006: chenilleG_001
+    100008: Cylinder_001
+    100010: EchappementG_001
+    100012: //RootNode
+    100014: pareBuffleAR_001
+    100016: pharesAV_001
+    100018: roueG1_000
+    100020: roueG1_001
+    100022: roueG2_000
+    100024: roueG2_001
+    100026: roueG3_000
+    100028: roueG3_001
+    100030: roueG4_000
+    100032: roueG4_001
+    100034: roueG5_000
+    100036: roueG5_001
+    100038: roueG6_000
+    100040: roueG6_001
+    100042: Sphere_001
+    100044: tourelle_001
+    100046: treuilAV_001
+    100048: Body
+    100050: tourelle
+    400000: BezierCircle
+    400002: body_001
+    400004: chenilleD_001
+    400006: chenilleG_001
+    400008: Cylinder_001
+    400010: EchappementG_001
+    400012: //RootNode
+    400014: pareBuffleAR_001
+    400016: pharesAV_001
+    400018: roueG1_000
+    400020: roueG1_001
+    400022: roueG2_000
+    400024: roueG2_001
+    400026: roueG3_000
+    400028: roueG3_001
+    400030: roueG4_000
+    400032: roueG4_001
+    400034: roueG5_000
+    400036: roueG5_001
+    400038: roueG6_000
+    400040: roueG6_001
+    400042: Sphere_001
+    400044: tourelle_001
+    400046: treuilAV_001
+    400048: Body
+    400050: tourelle
+    2300000: BezierCircle
+    2300002: body_001
+    2300004: chenilleD_001
+    2300006: chenilleG_001
+    2300008: Cylinder_001
+    2300010: EchappementG_001
+    2300012: pareBuffleAR_001
+    2300014: pharesAV_001
+    2300016: roueG1_000
+    2300018: roueG1_001
+    2300020: roueG2_000
+    2300022: roueG2_001
+    2300024: roueG3_000
+    2300026: roueG3_001
+    2300028: roueG4_000
+    2300030: roueG4_001
+    2300032: roueG5_000
+    2300034: roueG5_001
+    2300036: roueG6_000
+    2300038: roueG6_001
+    2300040: Sphere_001
+    2300042: tourelle_001
+    2300044: treuilAV_001
+    2300046: Body
+    2300048: tourelle
+    3300000: BezierCircle
+    3300002: body_001
+    3300004: chenilleD_001
+    3300006: chenilleG_001
+    3300008: Cylinder_001
+    3300010: EchappementG_001
+    3300012: pareBuffleAR_001
+    3300014: pharesAV_001
+    3300016: roueG1_000
+    3300018: roueG1_001
+    3300020: roueG2_000
+    3300022: roueG2_001
+    3300024: roueG3_000
+    3300026: roueG3_001
+    3300028: roueG4_000
+    3300030: roueG4_001
+    3300032: roueG5_000
+    3300034: roueG5_001
+    3300036: roueG6_000
+    3300038: roueG6_001
+    3300040: Sphere_001
+    3300042: tourelle_001
+    3300044: treuilAV_001
+    3300046: Body
+    3300048: tourelle
+    4300000: roueG2_000
+    4300002: roueG3_000
+    4300004: roueG4_000
+    4300006: roueG5_000
+    4300008: roueG6_000
+    4300010: roueG1_000
+    4300012: tourelle_001
+    4300014: body_001
+    4300016: pareBuffleAR_001
+    4300018: chenilleG_001
+    4300020: pharesAV_001
+    4300022: roueG1_001
+    4300024: roueG6_001
+    4300026: roueG5_001
+    4300028: roueG4_001
+    4300030: roueG3_001
+    4300032: roueG2_001
+    4300034: EchappementG_001
+    4300036: chenilleD_001
+    4300038: treuilAV_001
+    4300040: Sphere_001
+    4300042: Cylinder_001
+    4300044: BezierCircle
+    4300046: tourelle
+    4300048: Body
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

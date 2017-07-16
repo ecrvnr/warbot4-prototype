@@ -1,5 +1,3 @@
-# warbot4-prototype
-
 Warbot Unity is a complete rewrite of the educational multi-agent systems game Warbot, in Unity3D.
 
 AUTHORS :

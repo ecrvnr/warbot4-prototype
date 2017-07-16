@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 0fee7149c7b9f924ebd39e8a08baacf0
+timeCreated: 1491408135
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: body
+    100004: bodySides
+    100006: canons
+    100008: cheniileL
+    100010: cheniileL_001
+    100012: chenillesPathL
+    100014: chenillesPathL_001
+    100016: Cylinder
+    100018: echap2
+    100020: echaps1
+    100022: roues
+    100024: //RootNode
+    100026: tourelle
+    400000: BezierCircle
+    400002: body
+    400004: bodySides
+    400006: canons
+    400008: cheniileL
+    400010: cheniileL_001
+    400012: chenillesPathL
+    400014: chenillesPathL_001
+    400016: Cylinder
+    400018: echap2
+    400020: echaps1
+    400022: roues
+    400024: //RootNode
+    400026: tourelle
+    2300000: BezierCircle
+    2300002: body
+    2300004: bodySides
+    2300006: canons
+    2300008: cheniileL
+    2300010: cheniileL_001
+    2300012: chenillesPathL
+    2300014: chenillesPathL_001
+    2300016: Cylinder
+    2300018: echap2
+    2300020: echaps1
+    2300022: roues
+    2300024: tourelle
+    3300000: BezierCircle
+    3300002: body
+    3300004: bodySides
+    3300006: canons
+    3300008: cheniileL
+    3300010: cheniileL_001
+    3300012: chenillesPathL
+    3300014: chenillesPathL_001
+    3300016: Cylinder
+    3300018: echap2
+    3300020: echaps1
+    3300022: roues
+    3300024: tourelle
+    4300000: Cylinder
+    4300002: BezierCircle
+    4300004: echap2
+    4300006: echaps1
+    4300008: chenillesPathL_001
+    4300010: cheniileL_001
+    4300012: roues
+    4300014: chenillesPathL
+    4300016: cheniileL
+    4300018: canons
+    4300020: bodySides
+    4300022: tourelle
+    4300024: body
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
